@@ -1,0 +1,15 @@
+{
+  "window.title": "${rootName}${separator}${activeEditorShort}",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": false
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "html"
+  ],
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true
+}
